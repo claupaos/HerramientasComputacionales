@@ -12,3 +12,5 @@ _Se puede usar markdown_
 
 - lista elemento 1
 - lista elemento 2
+
+1. Una lista
