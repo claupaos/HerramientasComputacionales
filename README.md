@@ -8,7 +8,7 @@ _Se puede usar markdown_
 
 ### Cambio  en rama alternativa
 
-#Nuevo cambio
+# Nuevo cambio
 
--lista elemento 1
--lista elemento 2
+- lista elemento 1
+- lista elemento 2
