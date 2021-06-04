@@ -2,9 +2,9 @@
 Proyecto Herramientas Computacionales
 
 
-_Se puede usar markdown_
+_Usen Markdown en la documentación del proyecto_
 
-**_Para describir el proyecto_**
+**_describir el proyecto_**
 
 ### Cambio  en rama alternativa
 
