@@ -1,5 +1,5 @@
 # HerramientasComputacionales
-Proyecto Herramientas Computacionales
+## Parcial Herramientas Computacionales
 
 
 _Usen Markdown en la documentación del proyecto_
