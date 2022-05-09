@@ -48,5 +48,6 @@ if secuencia== CitC_humano:
     print(organismo)
 else:
     print("no definido")
+ print("fin")
     
 #comentario nuevo
