@@ -14,3 +14,4 @@ _Usen Markdown en la documentación del proyecto_
 - lista elemento 2
 
 1. Una lista
+2. ordenada
